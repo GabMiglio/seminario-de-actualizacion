@@ -1,6 +1,0 @@
-class AuthModel
-{
-
-}
-
-export { AuthModel }
